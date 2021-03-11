@@ -2,3 +2,10 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
+  - pygeos
+  - geopandas
+  - rtree
+  - numpy
+  - geopy 
+  - GeoAlchemy2 
+  - fiona 
